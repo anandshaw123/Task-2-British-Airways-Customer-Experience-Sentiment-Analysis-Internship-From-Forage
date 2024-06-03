@@ -5,7 +5,7 @@
 
 
 
-In This Project Find Sentiment of British Airways Users Reviews and maximum people Sentiment are **Positive** and **Negative.** **Subjectivity Scores** to understand the prevalence of personal opinions in these reviews.Using **Subjectivity Score** shows how many reviewers gave their **Personal Opinion.** and using WordCloud visualizing unstructured text data and getting insights on trends and patterns.Analyze the sentiments of British Airways customers through their reviews. By employing sentiment analysis techniques.By employing Sentiment Analysis Techniques, we categorize the sentiments into **Positive** and **Negative** and **Neutral**, revealing an overarching Perspective of the Airline's Service Quality from the Customer's point of view.
+In This Project Find Sentiment of British Airways Customer Users Reviews and maximum people Sentiment are **Positive** and **Negative.** **Subjectivity Scores** to understand the prevalence of personal opinions in these reviews.Using **Subjectivity Score** shows how many reviewers gave their **Personal Opinion.** and using WordCloud visualizing unstructured text data and getting insights on trends and patterns.Analyze the sentiments of British Airways customers through their reviews. By employing sentiment analysis techniques.By employing Sentiment Analysis Techniques, we categorize the sentiments into **Positive** and **Negative** and **Neutral**, revealing an overarching Perspective of the Airline's Service Quality from the Customer's point of view.
 
 
 
