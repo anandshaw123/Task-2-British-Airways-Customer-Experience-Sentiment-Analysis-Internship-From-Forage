@@ -14,7 +14,7 @@ In This Project Find Sentiment of British Airways Users Reviews and maximum peop
 
 
 ## **Project Objective:**
-Determine the subjectivity levels within the reviews to understand the prevalence of **personal opinions.**
+Determine the subjectivity levels within the Customer reviews to understand the prevalence of **personal opinions.**
 
 To categorize customer reviews into **Positive** and **Negative** **Neutral** Sentiments.
 
