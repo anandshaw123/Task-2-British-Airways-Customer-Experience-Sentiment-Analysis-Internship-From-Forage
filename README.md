@@ -24,7 +24,33 @@ WordCloud for visual data analysis, extracting key trends and patterns to gain d
 
 ## **Tool/Technique:**
 
-pandas
+Python
+
+Pandas
+
+numpy
+
+nltk
+
+Re Library
+
+import string
+
+word_tokenize
+
+stopwords
+
+SnowballStemmer, WordNetLemmatizer
+
+FreqDist
+
+TextBlob
+
+SentimentIntensityAnalyzer
+
+WordCloud
+
+<!--pandas
 numpy
 nltk
 import re
@@ -37,15 +63,19 @@ from nltk.stem import WordNetLemmatizer
 from nltk.probability import FreqDist
 from textblob import TextBlob
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-from wordcloud import WordCloud
+from wordcloud import WordCloud -->
 
 
 ## Preprocessing:
 
 **Lowercasing**,
+
 **Tokenization**,
+
 **Removing punctuation**,
+
 **Stop word removal**,
+
 **Stemming and Lemmatization**
 
 
