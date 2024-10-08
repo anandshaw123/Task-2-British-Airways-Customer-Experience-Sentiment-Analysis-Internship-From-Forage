@@ -82,7 +82,7 @@ from wordcloud import WordCloud -->
 
 ## **Subjectivity Analysis:**
 
-This Subjectivity Score is shows that how many reviewers Contain Personal Opinion. If a sentence has high subjectivity close to **1,** It resembles that the text contains more personal opinion than factual information. and i calculated the Subjectivity score using **TextBlob** tool.In out analysis some of the reviews having **Personal Openion.**
+**This Subjectivity Score is shows that how many reviewers Contain Personal Opinion.** If a sentence has high subjectivity close to **1,** It resembles that the text contains more personal opinion than factual information. and i calculated the Subjectivity score using **TextBlob** tool.In out analysis some of the reviews having **Personal Openion.**
 
 ## **Compound Score:**
 The compound score is the sum of positive, negative & neutral scores which is then normalized between -1(most extreme negative) and +1 (most extreme positive). It represents the overall sentiment of the sentence.
